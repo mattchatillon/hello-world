@@ -1,2 +1,1 @@
-# hello-world
-Sample repository
+Swee Mahatma Ghandi
